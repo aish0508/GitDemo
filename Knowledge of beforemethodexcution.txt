@@ -1,0 +1,9 @@
+Before Method
+
+suppose 4 test(method) and we have written beforemethod then
+
+first Before method command excute then method testcase  then bfm command excute the testcase method 2  and so on....
+
+
+what is diff b/w beforemethod and beforetest?
+beforetest deponds on testNG xml based on xml and beforemethod belong to class

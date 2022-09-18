@@ -1,0 +1,4 @@
+Tell git who you are by command
+
+>git config --global user.name "Harryaish01"
+>git cofig --user.email "aishwaryamohali@gmail.com 
