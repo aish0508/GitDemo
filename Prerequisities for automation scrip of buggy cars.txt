@@ -1,0 +1,6 @@
+Prerequisities for automation script:
+1. Download Java
+2. Download Eclipse
+3. Download Selenium webdriver in java language
+4. Download Selenium server 
+5. In eclipse click import  project code and on project right click then click on build path then click on configure build path then click on libaries then click on add library then add selenium webdriver jars in java language and selenium server jars. It will add in referenced jars.
